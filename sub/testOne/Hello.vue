@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    这是一个hello 组件
+    这是一个hello2 组件
   </div>
 </template>
 
